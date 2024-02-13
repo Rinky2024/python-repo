@@ -4,7 +4,7 @@
 
 1. Clone the repository.
 
-  git clone https://github.com/Rinky2024/python-repo-1.git
+  git clone [https://github.com/Rinky2024/python-repo.git](https://github.com/Rinky2024/python-repo.git)
 
 2. Navigate to the project directory.
 
